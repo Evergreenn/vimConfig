@@ -59,6 +59,7 @@ let g:ctrlp_map = '<c-e>'
 let g:ctrlp_cmd = 'CtrlP'
 let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git\|target\|vendor'
 let g:ctrlp_tabpage_position = 'ac'
+
 " Rust
 let g:rustfmt_autosave = 1
 let g:rustfmt_emit_files = 1
